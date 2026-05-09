@@ -24,4 +24,3 @@ steps:
       ArtifactName: 'drop'
       publishLocation: 'Container'
     displayName: 'Publish Build Artifacts'
-7
